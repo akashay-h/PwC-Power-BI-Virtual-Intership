@@ -1,2 +1,2 @@
-# PwC-Switzerland-Power-BI-Virtual-Intership
+# PwC-Power-BI-Virtual-Intership
 
