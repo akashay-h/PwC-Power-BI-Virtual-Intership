@@ -11,6 +11,6 @@ The task was to design and develop a Power BI dashboard that reflects relevant K
 **Custom Background Wallpaper**: A custom Power BI wallpaper is included to help you create visually consistent reports. This theme applies a unique color palette and font settings tailored to PwC Switzerland's branding guidelines.
 
 **Tasks List**: -
-- [x] Task 1: Call Center Trends
-- [x] Task 2: Customer Retention 
-- [x] Task 3: Diversity & Inclusion
+- [x] Task 2: Call Center Trends
+- [x] Task 3: Customer Retention 
+- [x] Task 4: Diversity & Inclusion
