@@ -3,11 +3,11 @@
 This repository contains a Power BI dashboard report that visualizes key metrics related to diversity and inclusion within an organization. The report aims to provide insights into various aspects of diversity and inclusion, helping stakeholders understand the current state and progress in these areas.
 
 # Key Metrics
-# 000000 Gender Distribution: Breakdown of male and female employees across different job levels.
-# 000000 Performance Ratings: Average performance ratings for male and female employees.
-# 000000 Promotions and Turnover: Analysis of promotion rates and turnover rates by gender and job level.
-# 000000 Demographic Analysis: Age distribution and regional diversity of employees.
-# 000000 Departmental Insights: Performance review assessment (PRA) statuses by department and job level.
+- Gender Distribution: Breakdown of male and female employees across different job levels.
+- Performance Ratings: Average performance ratings for male and female employees.
+- Promotions and Turnover: Analysis of promotion rates and turnover rates by gender and job level.
+- Demographic Analysis: Age distribution and regional diversity of employees.
+- Departmental Insights: Performance review assessment (PRA) statuses by department and job level.
 
 # Files
 Diversity Inclusion.pdf or Diversity Inclusion.pbit: The exported Power BI dashboard report.
