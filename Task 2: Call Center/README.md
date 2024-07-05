@@ -34,5 +34,6 @@ The Power BI dashboard includes the following visualizations and KPIs:
 8. **Filters and Slicers**: Interactive elements like filters and slicers to allow users to explore the data further and gain deeper insights.
 
 # Dashboard Screenshot
-![call center ss](https://github.com/akashay-h/PwC-Power-BI-Virtual-Intership/assets/108322864/bad1e30b-ac7d-44b4-8213-1ca9ed2d3815)
+
+![call center ss 2](https://github.com/akashay-h/PwC-Power-BI-Virtual-Intership/assets/108322864/f0419784-18f3-4c81-80a7-97ae8d44376d)
 
